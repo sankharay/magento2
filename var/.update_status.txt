@@ -1,0 +1,3 @@
+[2017-05-19 23:22:01 UTC] Magento is not installed.
+[2017-05-19 23:23:00 UTC] Magento is not installed.
+[2017-05-19 23:24:03 UTC] Magento is not installed.

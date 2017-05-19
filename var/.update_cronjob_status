@@ -1,0 +1,8 @@
+{
+    "readiness_checks": {
+        "error": "<br/>Found non-writable path(s):<br/>/Volumes/webserver/magento2/.travis.yml<br/>/Volumes/webserver/magento2/.php_cs<br/>/Volumes/webserver/magento2/.htaccess.sample<br/>/Volumes/webserver/magento2/.user.ini",
+        "file_permissions_verified": false
+    },
+    "last_timestamp": 1495236960,
+    "current_timestamp": 1495237020
+}
