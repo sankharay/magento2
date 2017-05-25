@@ -1,1 +1,0 @@
-/Volumes/webserver/magento2/lib/web/mage/translate.js

@@ -105,5 +105,8 @@ return array (
     'Magento_Weee' => 1,
     'Magento_CatalogWidget' => 1,
     'Magento_Wishlist' => 1,
+    'Merqbiz_Webs' => 1,
+    'Sandeep_Singh' => 1,
+    'Vendor_Helloworld' => 1,
   ),
 );
